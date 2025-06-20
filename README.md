@@ -14,5 +14,5 @@ Data source:
 Extracted the dataset from Kaggle
 
 Preview:
-https://github.com/Pramods389/Survey_Report/blob/main/Dashboard%20Preview.png
+[Dashboard.preview].(https://github.com/Pramods389/Survey_Report/blob/main/Dashboard%20Preview.png)
 
