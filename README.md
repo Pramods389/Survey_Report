@@ -13,5 +13,5 @@ The dashboard was built using the following technologies:
 Data source:
 Extracted the dataset from Kaggle
 
-Preview: ![Dashboard Preview]()
+Preview: ![Dashboard Preview](https://github.com/Pramods389/Survey_Report/blob/main/Dashboard%20Preview.png)
 
